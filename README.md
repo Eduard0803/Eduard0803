@@ -15,3 +15,7 @@
     <img width="50" height="50" alt="LinkeIn icon" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
   </a>
 </div>
+
+##
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard0803&layout=compact&locale=pt-br&theme=github_dark&cache_seconds=1800"/>
