@@ -6,7 +6,7 @@
 class Eduard0803:
     def __init__(self):
         self.name = "Eduardo Belarmino Silva"
-        self.age = 19
+        self.age = 20
         self.occupation = "🎓 Software Engineering Student"
         self.city = "Brasilia - DF"
 
